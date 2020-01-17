@@ -1,7 +1,9 @@
 # Synthetic hybrids of six species
-#### Authors: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino4, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
-#### Journal: RRR
-#### Year: 2020
+**Authors**: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
+
+**Journal**: RRR
+
+**Year**: 2020
 
 AbstractXXX
 
