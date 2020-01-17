@@ -1,0 +1,31 @@
+Cross,Replica,Frequency successful cross,Number of species,Target ploidy
+yHWR131 x yHWR129 (Scer G418 x Spar Zeo),1,2.80E-06,2-spp,4
+yHWR131 x yHWR129 (Scer G418 x Spar Zeo),2,3.68E-05,2-spp,4
+yHRW131 x yHRW123 (Scer G418 x Smik Zeo),1,9.48E-05,2-spp,4
+yHRW131 x yHRW123 (Scer G418 x Smik Zeo),2,1.31E-05,2-spp,4
+yHWR126 x yHWR129 (Skud Hyg x Spar Zeo),1,2.31E-05,2-spp,4
+yHWR126 x yHWR129 (Skud Hyg x Spar Zeo),2,2.21E-05,2-spp,4
+yHWR123 x yHWR131 (Smik Zeo x Skud Nat),1,9.49E-05,2-spp,4
+yHWR123 x yHWR131 (Smik Zeo x Skud Nat),2,1.23E-04,2-spp,4
+yHWR121 x yHWR123 (Suva Nat x Smik Zeo),1,7.47E-05,2-spp,4
+yHWR121 x yHWR123 (Suva Nat x Smik Zeo),2,6.99E-05,2-spp,4
+yHWR112 x yHWR129 (Sarb Hyg x Spar Zeo),1,4.31E-06,2-spp,4
+yHWR112 x yHWR129 (Sarb Hyg x Spar Zeo),2,7.03E-06,2-spp,4
+yHWR114 x yHWR134 (Suva Hyg x Scer G418),1,2.74E-05,2-spp,4
+yHWR114 x yHWR134 (Suva Hyg x Scer G418),2,4.94E-05,2-spp,4
+yHWR112 x yHWR134 (Sarb Hyg x Scer G418),1,1.40E-05,2-spp,4
+yHWR112 x yHWR134 (Sarb Hyg x Scer G418),2,1.32E-05,2-spp,4
+yHWRh8 x yHWR134 (Sarb/Spar Zeo x Scer G418),1,4.55E-06,3-spp,6
+yHWRh8 x yHWR134 (Sarb/Spar Zeo x Scer G418),2,1.29E-05,3-spp,6
+yHWRh4 x yHWR114 (Smik/Skud Nat x Suva Hyg),1,1.83E-06,3-spp,6
+yHWRh4 x yHWR114 (Smik/Skud Nat x Suva Hyg),2,7.42E-07,3-spp,6
+yHWRh4 x yHWRh10,1,2.39E-08,4-spp,8
+yHWRh4 x yHWRh10,2,3.31E-09,4-spp,8
+yHWRh13 x yHWRh19,1,6.41E-09,4-spp,8
+yHWRh13 x yHWRh19,2,1.20E-08,4-spp,8
+yHWRh7 x yHWRh24,1,2.13E-08,6-spp,12
+yHWRh7 x yHWRh24,2,0.00E+00,6-spp,12
+yHWRh18 x yHWRh22,1,1.46E-08,6-spp,12
+yHWRh18 x yHWRh22,2,0.00E+00,6-spp,12
+yHWRh42 x yHWRh51,1,0.00E+00,6-spp,12
+yHWRh42 x yHWRh51,2,1.14E-08,6-spp,12

@@ -1,37 +1,14 @@
-## Synthetic hybrids of six species
-#### Authors: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino4, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
-#### Journal: RRR
-#### Year: 2020
+# Synthetic hybrids of six species
+**Authors**: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
 
-In this Github page you will find all raw data used to generate Figures and Tables in the paper. 
+**Journal**: RRR
 
-### Markdown
+**Year**: 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AbstractXXX
 
-```markdown
-Syntax highlighted code block
+In this repository, linked to the SynHybrids [Github Page](https://perisd.github.io/SynHybrids/ "SynHybrids Webpage"), you will find all raw data used to generate Figures and Tables in the paper. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PerisD/frankeyeast/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ***
 
