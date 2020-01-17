@@ -7,7 +7,7 @@ AbstractXXX
 
 ## Succesful crosses
 
-- The frequency of hybrid production by each cross is recorded in the table [Raw_frequency\\_crosses](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Raw_frequency_crosses.csv "Raw_frequency_crosses"). The data is used in Figure 3A
+- The frequency of hybrid production by each cross is recorded in the table [Raw_frequency\_crosses](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Raw_frequency_crosses.csv "Raw_frequency_crosses"). The data is used in Figure 3A
 
 ## Parent genome contribution
 
@@ -21,12 +21,12 @@ AbstractXXX
 - The compressed file Chromosome_composition contains the tables with the chromosome composition by species and the total number of chromosomes for each hybrid. The data was inferred from the sppIDer plots. Data was used for generating Figures 2B and 6C
 
 ## Cell size and ploidy
-- Raw images taken from the microscope used to calculate the cell size are compressed in the [Cell_size\\_raw\\_images](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_size_raw_images.tar.gz "Cell_size_raw_images") file
-- The estimated cell area for each strains is described in table [Cell_size\\_estimations](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_size_estimations.csv "Cell_size_estimations"). The data is used in Figure 3B.
-- Ploidy estimations based on flow cytometry are described in table [Flow_cytometry\\_ploidy\\_estimations](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Flow_cytometry_ploidy_estimations.csv "Flow_cytometry_ploidy_estimations"). The data is used in Supplementary Figures 5A, 5B, 5C.
+- Raw images taken from the microscope used to calculate the cell size are compressed in the [Cell_size\_raw\_images](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_size_raw_images.tar.gz "Cell_size_raw_images") file
+- The estimated cell area for each strains is described in table [Cell_size\_estimations](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_size_estimations.csv "Cell_size_estimations"). The data is used in Figure 3B.
+- Ploidy estimations based on flow cytometry are described in table [Flow_cytometry\_ploidy\_estimations](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Flow_cytometry_ploidy_estimations.csv "Flow_cytometry_ploidy_estimations"). The data is used in Supplementary Figures 5A, 5B, 5C.
 
 ## Growth kinetic parameters
-- Optical density measurements at 600nm are compressed in [Optical_density\\_measurements](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Optical_density_measurements.rar "Optical_density_measurements").Date_growthcurve.csv contains the measurements and Date_growthcurve_layout.csv has information about the strain and media contained in each well.
+- Optical density measurements at 600nm are compressed in [Optical_density\_measurements](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Optical_density_measurements.rar "Optical_density_measurements").Date_growthcurve.csv contains the measurements and Date_growthcurve_layout.csv has information about the strain and media contained in each well.
 	- 20190819: Figures 3C and 3D
 	- 20180911: Supplementary Figure 6
 	- 20181113,20181130,20181210: Figure 5A and Supplementary Figure 8
