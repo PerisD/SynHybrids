@@ -7,7 +7,7 @@
 
 AbstractXXX
 
-In this repository, linked to the SynHybrids [Github Page](https://perisd.github.io/SynHybrids/ "SynHybrids Webpage"), you will find all raw data used to generate Figures and Tables in the paper. 
+This repository, linked to the SynHybrids [Github Page](https://perisd.github.io/SynHybrids/ "SynHybrids Webpage"), contains all raw data used to generate Figures and Tables in this publication. 
 
 
 ***
