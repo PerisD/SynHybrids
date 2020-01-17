@@ -33,7 +33,7 @@ AbstractXXX
 	- 20181113,20181130,20181210: *Figure 5A and Supplementary Figure 8*.
 
 ## Droptests
-XXX
+- Raw droptest pictures are compressed in [droptests](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/droptests.rar "Droptest pictures") file. The pictures were processed for *Figure 5B*
 
 ## Cassette coverage distribution
 - Coverage values for chromosome IV extracted from sppIDer outputs and coverage values for xylose cassette sequence calculated from raw reads using [HybPiper](https://github.com/mossmatters/HybPiper "HybPiper repository") were described in the compressed files [ChrCovWindow](https://github.com/PerisD/SynHybrids/blob/master/hybpiper/ChrCovWindow.rar "ChrCovWindow") and [CassetteCov](https://github.com/PerisD/SynHybrids/blob/master/hybpiper/CassetteCov.rar "CassetteCov"), respectively. The data is used in *Supplementary Figure 7B*.
