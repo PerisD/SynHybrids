@@ -5,9 +5,9 @@
 
 In this Github page you will find all raw data used to generate Figures and Tables in the paper. 
 
-## Figure 2
+## Average plots
 
-The compressed file winAvgDepth
+The compressed file [winAvgDepth](https://github.com/PerisD/SynHybrids/blob/master/sppIDer/winAvgDepth.rar "winAvgDepth") contains the individual files of the coverage values for each hybrid used to generate Figure 4A, 4B, and 6B
 
 ```markdown
 Syntax highlighted code block
