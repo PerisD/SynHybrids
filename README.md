@@ -3,7 +3,9 @@
 #### Journal: RRR
 #### Year: 2020
 
-In this Github page you will find all raw data used to generate Figures and Tables in the paper. 
+AbstractXXX
+
+In this repository, linked to the [Github Page](https://perisd.github.io/SynHybrids/ "SynHybrids Webpage") you will find all raw data used to generate Figures and Tables in the paper. 
 
 
 ***
