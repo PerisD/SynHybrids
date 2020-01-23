@@ -23,7 +23,8 @@ AbstractXXX
 - The compressed file [Chromosome_composition](https://github.com/PerisD/SynHybrids/blob/master/sppIDer/Chromosome_composition.rar "Chromosome_composition") contains the tables with the chromosome composition by species and the total number of chromosomes for each hybrid. The data was inferred from the sppIDer plots. Data was used for generating *Figures 2B and 6C*
 
 ## Cell size and ploidy
-- Raw brightfield microscopy images used to calculate 2-dimensional cell size are compressed in the [Cell_size\_raw\_images](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_size_raw_images.tar.gz "Cell_size_raw_images") file.The estimated cell area for each strains is described in table [Cell_size\_estimations](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_size_estimations.csv "Cell_size_estimations"). The data is used in *Figure 3B*.
+- Raw brightfield microscopy images used to calculate 2-dimensional cell size are compressed in the [Cell_size\_raw\_images](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_size_raw_images.tar.gz "Cell_size_raw_images") file.The estimated cell area for each strains is described in table [Cell_area\_estimations](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_areas_raw_fiji_data.csv "Cell_area_estimations"). The data is used in *Figure 3B*.
+- Cell volume estimations are described in table [Cell\_volume\_increase_data](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Cell_volume_increase_data.tsv "Cell_volume_increase_data"). The data is displayed in *Supplementary Table 2*
 - Raw fluorescence values from flow cytometry are described in table [Flow_cytometry\_fluorescence\_data](https://github.com/PerisD/SynHybrids/blob/master/phenotyping/Flow_cytometry_fluorescence_data.csv "Flow_cytometry_fluorescence_data"). The data is used in Supplementary *Figures 5A, 5B, 5C*.
 
 ## Growth kinetic parameters
