@@ -1,11 +1,13 @@
 # Synthetic hybrids of six species
 **Authors**: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
 
-**Journal**: RRR
+**Journal**: Nature Communications XXX
 
 **Year**: 2020
 
-AbstractXXX 
+**Abstract**: Allopolyploidy generates diversity by increasing the number of copies and sources of chromosomes. Many of the best-known evolutionary radiations, crops, and industrial organisms are ancient or recent allopolyploids. Allopolyploidy promotes differentiation and facilitates adaptation to new environments, but the tools to test its limits are lacking. Here we develop an iterative method of Hybrid Production (iHyPr) to combine the genomes of multiple budding yeast species, generating Saccharomyces allopolyploids of at least six species. When making synthetic hybrids, chromosomal instability and cell size increase dramatically as additional copies of the genome are added. The six-species hybrids initially grow slowly, but they rapidly regain fitness and adapt, even as they retain traits from multiple species. These new synthetic yeast hybrids and the iHyPr method have potential applications for the study of polyploidy, genome stability, chromosome segregation, and bioenergy.
+
+**Nature Research Bioengineering Community**:XXX
 
 ## Successful crosses
 
@@ -45,10 +47,14 @@ Whole genome sequences are deposited in SRA under accession number [Bioproject](
 
 ***
 
+#Press Notes
+
+***
+
 ### Contact
 
-[<img src="http://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40"/>](https://goo.gl/xglg8H)
+[<img src="http://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40"/>](https://bit.ly/2V9hFt4)
 
-[<img src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png" width="50"/>](https://goo.gl/OS0O2F)
+[<img src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png" width="50"/>](https://bit.ly/2WJ2Rm8)
 
 [<img src="https://www.uv.es/perisnav/images/Mitogression.png" width="60"/>](https://www.uv.es/perisnav/)
