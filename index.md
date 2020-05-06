@@ -1,13 +1,13 @@
 # Synthetic hybrids of six species
 **Authors**: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
 
-**Journal**: Nature Communications XXX
+**Journal**: Nature Communications 11:2085
 
 **Year**: 2020
 
 **Abstract**: Allopolyploidy generates diversity by increasing the number of copies and sources of chromosomes. Many of the best-known evolutionary radiations, crops, and industrial organisms are ancient or recent allopolyploids. Allopolyploidy promotes differentiation and facilitates adaptation to new environments, but the tools to test its limits are lacking. Here we develop an iterative method of Hybrid Production (iHyPr) to combine the genomes of multiple budding yeast species, generating Saccharomyces allopolyploids of at least six species. When making synthetic hybrids, chromosomal instability and cell size increase dramatically as additional copies of the genome are added. The six-species hybrids initially grow slowly, but they rapidly regain fitness and adapt, even as they retain traits from multiple species. These new synthetic yeast hybrids and the iHyPr method have potential applications for the study of polyploidy, genome stability, chromosome segregation, and bioenergy.
 
-**Nature Research Bioengineering Community**:XXX
+**[Nature Research Bioengineering Community blog entry](https://go.nature.com/2KF6tOK "Nature Research Bioengineering Community blog entry")**
 
 ## Successful crosses
 
@@ -48,6 +48,14 @@ Whole genome sequences are deposited in SRA under accession number [Bioproject](
 ***
 
 #Press Notes
+
+- [CSIC - Abril 2020](https://bit.ly/35oI8WJ "CSIC Abril 2020") - Una nueva tecnología obtiene levaduras a la carta para mejorar la producción de bebidas alcohólicas y bioenergía
+
+- [UW-Madison/GLBRC News - April 2020](https://bit.ly/3c0ImWU "UWMadison News April 2020") - Researchers create hybrids of six yeast species to combine useful traits
+
+- [Anales Sectoriales - April 2020](https://bit.ly/3bVUJ6q "Anales Sectorial April 2020") - El CSIC desarrolla una nueva tecnología para obtener levaduras a la carta para mejorar la producción de bebidas alcohólicas
+
+- [Renewable Energy Magazine - April 2020](https://bit.ly/3aUMYfI "Renewable Energy April 2020") - Levaduras a la carta para producir vino y biocarburantes
 
 ***
 

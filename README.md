@@ -1,7 +1,7 @@
 # Synthetic hybrids of six species
 **Authors**: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
 
-**Journal**: Nature Communications XXX
+**Journal**: Nature Communications 11:2085
 
 **Year**: 2020
 
@@ -9,7 +9,7 @@
 
 This repository, linked to the SynHybrids [Github Page](https://perisd.github.io/SynHybrids/ "SynHybrids Webpage"), contains all raw data used to generate Figures and Tables in this publication. 
 
-**Nature Research Bioengineering Community**:XXX
+**[Nature Research Bioengineering Community blog entry](https://go.nature.com/2KF6tOK "Nature Research Bioengineering Community blog entry")**
 
 ***
 
