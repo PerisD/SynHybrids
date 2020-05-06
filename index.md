@@ -47,7 +47,7 @@ Whole genome sequences are deposited in SRA under accession number [Bioproject](
 
 ***
 
-##Press Notes
+## Press Notes
 
 - [CSIC - Abril 2020](https://bit.ly/35oI8WJ "CSIC Abril 2020") - Una nueva tecnología obtiene levaduras a la carta para mejorar la producción de bebidas alcohólicas y bioenergía
 
