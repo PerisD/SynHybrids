@@ -63,6 +63,6 @@ Whole genome sequences are deposited in SRA under accession number [Bioproject](
 
 [<img src="http://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40"/>](https://bit.ly/2V9hFt4)
 
-[<img src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png" width="50"/>](https://bit.ly/2WJ2Rm8)
+[<img src="https://www.uv.es/perisnav/Index/twitter-logo.png" width="50"/>](https://bit.ly/2WJ2Rm8)
 
 [<img src="https://www.uv.es/perisnav/images/Mitogression.png" width="60"/>](https://www.uv.es/perisnav/)
