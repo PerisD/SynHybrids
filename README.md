@@ -1,7 +1,7 @@
 # Synthetic hybrids of six species
 **Authors**: David Peris, William G. Alexander, Kaitlin J. Fisher, Ryan V. Moriarty, Mira G. Basuino, Emily J. Ubbelohde, Russell L. Wrobel, Chris Todd Hittinger
 
-**Journal**: Nature Communications 11:2085
+**Journal**: [Nature Communications](https://bit.ly/2We5YAB) 11:2085
 
 **Year**: 2020
 
